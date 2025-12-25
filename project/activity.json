@@ -1,0 +1,36 @@
+{
+  "category": "nasa_asteroids",
+  "timestamp": "2025-12-20 14:47:49.314974",
+  "asteroids": [
+    {
+      "name": "(2002 VP69)",
+      "diameter_km": 1.5632915441,
+      "speed_kmh": 57426.9104986517,
+      "miss_distance_km": 36366817.74296345
+    },
+    {
+      "name": "(2006 AL4)",
+      "diameter_km": 0.0616651765,
+      "speed_kmh": 55789.2405551286,
+      "miss_distance_km": 40973218.82543881
+    },
+    {
+      "name": "(2010 WR7)",
+      "diameter_km": 0.1185877909,
+      "speed_kmh": 29720.5127571537,
+      "miss_distance_km": 7426695.74943865
+    },
+    {
+      "name": "(2016 PD1)",
+      "diameter_km": 0.1018685158,
+      "speed_kmh": 18586.7266516539,
+      "miss_distance_km": 53460024.17073359
+    },
+    {
+      "name": "(2019 KG2)",
+      "diameter_km": 0.0392681082,
+      "speed_kmh": 68129.2501275121,
+      "miss_distance_km": 44350812.41220498
+    }
+  ]
+}
