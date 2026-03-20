@@ -1,6 +1,6 @@
 # SpaceScope
 
-#### Video Demo: [<YOUR_VIDEO_URL_HERE>](https://youtu.be/Ys-NfcHyFq8?si=lKzl1J9f32fco5YP)
+#### Video Demo: [<VIDEO_URL_HERE>](https://youtu.be/Ys-NfcHyFq8?si=lKzl1J9f32fco5YP)
 
 #### Description:
 SpaceScope is a Python program that fetches and displays near-Earth asteroid information from NASA’s NeoWs (Near Earth Object Web Service) API. The program allows users to quickly view details about asteroids approaching Earth on the current date. It also saves the top 5 asteroid entries in a simple JSON log (`activity.json`) for tracking and review.
